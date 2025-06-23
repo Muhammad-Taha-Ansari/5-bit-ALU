@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Verilog-5bit--ALU-blueviolet?style=for-the-badge&logo=verilog&logoColor=white" alt="ALU Badge"/>
 </p>
 
-<h1 align="center">🔢 5-Bit ALU – Verilog (Structural Design)</h1>
+<h1 align="center">🔢 5-Bit ALU – Verilog (Structural Design)</h1> 
 
 <p align="center">
   A modular 5-bit Arithmetic Logic Unit designed using Verilog HDL with structural modeling. <br>
