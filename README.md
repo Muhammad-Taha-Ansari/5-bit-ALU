@@ -10,11 +10,6 @@
   Simulated in <strong>ModelSim</strong> and synthesized using <strong>Quartus Prime</strong>.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taha-Ansari&show_icons=true&theme=radical&hide=contribs" height="150"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taha-Ansari&layout=compact&theme=radical" height="150"/>
-</p>
-
 ---
 
 ## ✅ Key Features
@@ -39,7 +34,24 @@
 
 ## 🧪 How to Simulate (ModelSim)
 
-```bash
-vlog alu.v adder.v subtractor.v multiplier.v register.v testbench.v
+```bash``
+vlog alu.v adder.v subtractor.v multiplier.v testbench.v
 vsim work.testbench
 run -all
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute it with attribution.
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Taha Ansari**  
+Electrical Engineering Student | Digital Logic Developer  
+📧 tahaansari1703@gmail.com  
+🌐 GitHub: [Muhammad-Taha-Ansari](https://github.com/Muhammad-Taha-Ansari)  
+📍 Karachi, Pakistan
